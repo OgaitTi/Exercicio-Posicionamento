@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(177, 175, 175);
+}
+
+#block {
+    position: absolute;
+    background-color: black;
+    width: 90px;
+    height: 100px;
+
+
+}
+#block-um {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    left: 98px;
+
+}
+#block-dois {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    left: 206px;
+}
+#block-tres { 
+    position: absolute;
+    background-color: black;
+    width: 90px;
+    height: 100px;
+    top: 108px;
+
+}
+
+#block-quatro {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    top: 108px;
+    left: 98px;
+}
+
+#block-cinco {
+    position: absolute;
+    background-color: black;
+    width: 90px;
+    height: 100px;
+    top: 215px;
+    
+}
+
+#block-seis {
+    position: absolute;
+    background-color: black;
+    width: 90px;
+    height: 100px;
+    right: 0;
+    bottom: 0;
+}
+
+#block-sete {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    right: 98px;
+    bottom: 0;
+}
+
+#block-oito {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    right: 206px;
+    bottom: 0;
+}
+
+#block-nove { 
+    position: absolute;
+    background-color: black;
+    width: 90px;
+    height: 100px;
+    bottom: 108px;
+    right: 0;
+
+}
+
+#block-dez {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    bottom: 108px;
+    right: 98px;
+}
+
+#block-onze {
+    position: absolute;
+    background-color: black;
+    width: 90px;
+    height: 100px;
+    bottom: 215px;
+    right: 0;
+}
+
+/* fim da html position dois */
+
